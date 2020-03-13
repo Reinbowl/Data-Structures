@@ -14,7 +14,6 @@ List::~List()
 	while (size > 0)
 	{
 		remove(1);
-		size--;
 	}
 }
 
