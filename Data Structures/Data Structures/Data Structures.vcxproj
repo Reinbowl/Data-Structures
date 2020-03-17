@@ -150,6 +150,8 @@
     <ClCompile Include="Data Structures.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="HashNode.h" />
+    <ClInclude Include="Hashtable.h" />
     <ClInclude Include="Leaf.h" />
     <ClInclude Include="Node.h" />
     <ClInclude Include="Queue.h" />
