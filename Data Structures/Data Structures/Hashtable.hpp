@@ -40,7 +40,7 @@ T Hashtable<T>::search(int key)
 	{
 		if (pos == NULL)
 		{
-			return -1;
+			return T();
 		}
 		pos = pos->next;
 	}
